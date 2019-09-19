@@ -1,0 +1,6 @@
+{
+  "editor.fontFamily": "PT Mono,Menlo, Monaco, 'Courier New', monospace",
+  "editor.formatOnType": true,
+  "telemetry.enableTelemetry": false,
+  "editor.cursorSmoothCaretAnimation": true
+}
