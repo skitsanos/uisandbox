@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "braft-editor": "2.3.8",
-    "emotion-theming": "10.0.19",
+    "emotion-theming": "10.3.0",
     "gg-editor": "3.0.0-beta.1",
     "react": "16.8.6",
     "react-dom": "16.8.6",
